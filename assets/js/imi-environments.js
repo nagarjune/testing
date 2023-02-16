@@ -5,7 +5,7 @@ var imiEnvironments = {
             "appId": 'NA25112157',
             "appSecret": 'qXj8gJD4',
             "pathConfig": {
-                "assetPath": "main/assets/",
+                "assetPath": "/assets/",
                 "root": "/"
             }
         },
